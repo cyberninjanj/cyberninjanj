@@ -2,6 +2,7 @@
 - 👀 I’m interested in C++, C# and Python
 - 🌱 I’m currently learning C++
 - 🚇 I want to make Video Games
+- I want to make projects with Python Code
 
 
 <!---
