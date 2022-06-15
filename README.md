@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyberninjanj
-- 👀 I’m interested in C++, C# and Python
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in C++, C#, MySQL, Pawn, JS and Python
+- 🌱 I’m currently learning Python for now
 - 🚇 I want to make Video Games
 - I want to make projects with Python Code
 
