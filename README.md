@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cyberninjanj
-- 👀 I’m interested in HTML, CSS, JS and Python
-- 🌱 I’m currently learning Python for now
-- 🚇 I want to make Video Games
-- I want to make projects with Python Code
+- 👀 I’m interested in HTML, CSS, JS, GDScript and Python
+- 🌱 I’m currently learning Python and GDScript for now
+- 🚇 I want to make Video Games, create OG 90s looking websites (and maybe work on a SA-MP server?)
+- I am only able to code by peeking through tutorials.
 - I'm an idiot tbh
 
 <!---
